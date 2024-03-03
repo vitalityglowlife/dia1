@@ -1,0 +1,42 @@
+1. Question: "Are you constantly worried about your blood sugar levels, living in fear of them spiking or dropping without warning?"
+2. Statement: "Imagine a life where you don't have to worry about every single meal, where you can enjoy food without the constant fear of diabetes complications."
+3. Question: "Do you feel like diabetes is controlling your life, dictating what you can and cannot do?"
+4. Statement: "There's a breakthrough solution that can help you regain control over your life, despite having diabetes."
+5. Question: "Are you tired of the constant finger pricks and injections just to keep your blood sugar levels in check?"
+6. Statement: "This new approach could minimize the need for those painful finger pricks and insulin injections."
+7. Question: "Are you scared of the potential complications of diabetes, such as heart disease, kidney failure, or even amputation?"
+8. Statement: "You can significantly reduce the risk of these life-threatening complications with this remarkable solution."
+9. Question: "Do you feel isolated and misunderstood because of your condition, like no one truly understands what it's like to live with diabetes?"
+10. Statement: "You're not alone in this fight against diabetes; there's a community out there ready to support and guide you through every step."
+11. Question: "Are you constantly battling fatigue and lack of energy because of your fluctuating blood sugar levels?"
+12. Statement: "Imagine waking up feeling refreshed and energized, ready to take on the day without worrying about your diabetes."
+13. Question: "Are you frustrated with the constant diet restrictions that come with managing diabetes?"
+14. Statement: "Discover a new way to manage your diabetes that doesn't involve giving up all your favorite foods."
+15. Question: "Does the fear of hypoglycemia episodes keep you awake at night?"
+16. Statement: "With this innovative approach, you can significantly reduce the risk of hypoglycemia episodes and finally get a good night's sleep."
+17. Question: "Are you worried about the long-term effects of diabetes medication on your body?"
+18. Statement: "This groundbreaking solution could help you manage your diabetes naturally, reducing your dependence on medication."
+19. Question: "Do you feel like diabetes is robbing you of the chance to live a normal life?"
+20. Statement: "Regain your freedom and live life on your terms again with this new approach to managing diabetes."
+
+
+1. Question: Are you tired of the constant worry about your high blood sugar levels and the potential health risks they bring?
+2. Statement: This groundbreaking solution can help you manage your diabetes, reducing the risk of complications such as heart disease, kidney damage, and nerve pain.
+3. Question: Have you ever felt embarrassed or judged when you have to check your blood sugar levels in public?
+4. Statement: With this innovative approach, you can discreetly manage your diabetes without drawing unwanted attention.
+5. Question: Are you struggling to keep up with the restrictive diets often recommended for people with high blood sugar?
+6. Statement: Discover a method that allows you to enjoy your favorite foods while still keeping your blood sugar levels in check.
+7. Question: Do you live in fear of severe hypoglycemic episodes that can leave you feeling dizzy, shaky, and even unconscious?
+8. Statement: This remarkable solution helps stabilize your blood sugar levels, reducing the risk of dangerous lows.
+9. Question: Are you frustrated with constantly having to monitor your blood sugar levels throughout the day?
+10. Statement: Learn how to manage your diabetes with less frequent testing and more peace of mind.
+11. Question: Are you worried about the long-term effects of diabetes medications on your body?
+12. Statement: Explore a natural approach to managing high blood sugar that minimizes reliance on medication.
+13. Question: Do you feel like diabetes is controlling your life, rather than the other way around?
+14. Statement: Regain control over your life and health with a pioneering method that simplifies diabetes management.
+15. Question: Are you concerned about potential vision loss due to diabetic retinopathy caused by high blood sugar levels?
+16. Statement: This unique solution helps protect your eyesight by effectively managing your diabetes.
+17. Question: Does it feel like managing diabetes is a full-time job that leaves little time for anything else?
+18. Statement: Discover a time-saving approach to diabetes management that lets you enjoy more of life's pleasures.
+19. Question: Are you afraid that diabetes could shorten your lifespan and prevent you from seeing your children or grandchildren grow up?
+20. Statement: With this life-changing solution, you can manage your diabetes effectively, increasing your chances of a long, healthy life.
