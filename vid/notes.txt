@@ -1,7 +1,7 @@
 rich sentences, complex
 phase1
 CPC < $1.50
-CTR > 1.50%
+CTR > 1.50%, CTR > 20%
 view rate > 20%
 CPM > $10
 
@@ -19,5 +19,9 @@ Sara - US
 Dr. OZ (copied voice)
 copy voice https://www.youtube.com/watch?v=laiRQlChtj8
 
+background color
+#30313C
 
+TEXT color
+#F0F0F0
 
