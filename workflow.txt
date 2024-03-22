@@ -1,0 +1,31 @@
+Campaign 1 – Phase 1:
+	Ad1 <$20.
+	Ad2 <$20
+	Ad3 <$20
+
+CPC too high?  If CPC is over $3.50 @ $10 = Pause
+Once each ad has run up to $20, determine which of the three is the best video.
+Then pick the best of the three and move to Phase 2.
+
+Phase 2 – Opening Scenes
+Prepare a minimum of 5 opening scens (you can test more as needed).  Test a combination of AI generated scenes and UGC.
+
+
+Scenes = Test one at time. Follow the following instructions when assessing KPIs and deciding what NEXT action to take:
+
+When the ad reaches $20 in ad spend:  If <$2/CPC &  >1.50%CTR, let it keep running to the $50 ad spend mark.
+
+When the ad reaches $50, reassess the numbers:  If <$1.50/CPC and >2.0%/CTR, let it keep running to 1x Average Order Value (you find the AOV inside the Clickbank Marketplace).
+
+When the ad spend get's to 1x AOV we are looking for a minimum of one sale.
+
+I hedge not over-spending my ad budget by also monitoring the engagements inside ClickMagick.  At $20-$30 I am looking for  = 1 engagement because we know on average, we get one sale for every 3-4  engagements.
+
+If we don’t find our winner in Phase 2, pick the best scene with the best stats and move to Phase 3
+
+Phase 3 – Hooks Scenes
+The hooks you test are to be congruent with the base video.  These hooks will be used on the best performing ad from Phase 2.
+Prepare a minimum of 5 unique hooks (you can test more as needed).
+Rinse & repeat testing method used in Phase 2
+
+
