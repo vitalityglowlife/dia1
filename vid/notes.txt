@@ -25,3 +25,5 @@ background color
 TEXT color
 #F0F0F0
 
+highlight text color
+#FFCD00
