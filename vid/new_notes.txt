@@ -41,4 +41,6 @@ If spend issues persist, we have two choices...  #1  We can continue to increase
 I like the idea of starting a new campaign but you still may need to raise the Tcpa if we have spend issues.  Often if spend issues continue, I swith over to maximum conversion.  Take note of this should we need to switch over.
 
 
+############### campaign rules ####################
+enable ads at least 5h before the end of campaign schedule
 
