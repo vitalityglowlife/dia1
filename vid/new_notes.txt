@@ -1,3 +1,23 @@
+##### earlier instructions #####
+ Campaign 1 – Phase 1 - x-mode only
+	Ad1 <$20.
+	Ad2 <$20
+	Ad3 <$20
+For example, if CPC is over $2.50 @ $10 = Pause
+Determine which of the three is the best video. If none of the videos meet the minimum KPIs of CPC < $1.50, CTR >1.50%, CPM > $10, View Rate > 20%, then you must continue to create and/or modify scripts until you reach these minimum KPIs.
+Then pick the best KPIs/script and move to Phase 2.
+Phase 2 – Hook Phase
+Prepare 5 additional hooks.  These hooks should be congruent with the script you moved forward with from Phase 1.
+Hook Testing = Test one at time.
+Test each hook to $20,  If you are < $2/CPC and >1.50%CTR, keep running to $50.  Now at $50 you want KPIs of <$1.50/CPC and >2.0%/CTR, if those numbers are met, keep running to 1x AOV (Average Order Value).
+Hedge our bet….by monitoring the engagements inside ClickMagick.
+We would like to see for every $20 to $30 spent in ad spend = 1 engagement because we know on average, we get one sale for every 3-4  engagements.
+Phase 3 – Opening scenes
+Prepare a minimum of 5 unique opening scenes.
+Rinse & repeat testing method used in Phase 2
+Keep Tracking Spreadsheet up to date.
+
+
 Campaign 1 – Phase 1:
 	Ad1 <$20.
 	Ad2 <$20
@@ -44,3 +64,7 @@ I like the idea of starting a new campaign but you still may need to raise the T
 ############### campaign rules ####################
 enable ads at least 5h before the end of campaign schedule
 
+
+
+############## stock video ideas ##############
+choose the close up stock videos from canva. as they look like UGC.
